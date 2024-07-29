@@ -2,6 +2,7 @@
 
 This is my personal website that serves as a portfolio with all my contacts as well as some information about me, my work experience and my my education.
 
+### [Live Preview](https://portfolio-rodrigo-santos.vercel.app)
 
 ## Demo
 

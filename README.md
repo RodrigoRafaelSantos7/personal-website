@@ -20,3 +20,13 @@ This is my personal website that serves as a portfolio with all my contacts as w
 - Notes Section
 - Contact Section
 - Blog
+
+## Tech Stack
+
+- Next.js - Build tool for the boilerplate and structure
+- TypeScript - Programming language
+- React - JavaScript library for building user interfaces
+- Tailwind - CSS framework
+- Framer Motion - Interactive animations
+- Shadcn UI - Components Library
+- GitHub - Version control & CI/CD
